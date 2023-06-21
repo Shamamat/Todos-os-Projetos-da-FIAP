@@ -1,0 +1,15 @@
+E:\Visual Studio\Projetos\Aula 2 - Condicionais\Aula 2 - Condicionais\bin\Debug\net7.0\Aula 2 - Condicionais.exe
+E:\Visual Studio\Projetos\Aula 2 - Condicionais\Aula 2 - Condicionais\bin\Debug\net7.0\Aula 2 - Condicionais.deps.json
+E:\Visual Studio\Projetos\Aula 2 - Condicionais\Aula 2 - Condicionais\bin\Debug\net7.0\Aula 2 - Condicionais.runtimeconfig.json
+E:\Visual Studio\Projetos\Aula 2 - Condicionais\Aula 2 - Condicionais\bin\Debug\net7.0\Aula 2 - Condicionais.dll
+E:\Visual Studio\Projetos\Aula 2 - Condicionais\Aula 2 - Condicionais\bin\Debug\net7.0\Aula 2 - Condicionais.pdb
+E:\Visual Studio\Projetos\Aula 2 - Condicionais\Aula 2 - Condicionais\obj\Debug\net7.0\Aula 2 - Condicionais.csproj.AssemblyReference.cache
+E:\Visual Studio\Projetos\Aula 2 - Condicionais\Aula 2 - Condicionais\obj\Debug\net7.0\Aula 2 - Condicionais.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio\Projetos\Aula 2 - Condicionais\Aula 2 - Condicionais\obj\Debug\net7.0\Aula 2 - Condicionais.AssemblyInfoInputs.cache
+E:\Visual Studio\Projetos\Aula 2 - Condicionais\Aula 2 - Condicionais\obj\Debug\net7.0\Aula 2 - Condicionais.AssemblyInfo.cs
+E:\Visual Studio\Projetos\Aula 2 - Condicionais\Aula 2 - Condicionais\obj\Debug\net7.0\Aula 2 - Condicionais.csproj.CoreCompileInputs.cache
+E:\Visual Studio\Projetos\Aula 2 - Condicionais\Aula 2 - Condicionais\obj\Debug\net7.0\Aula 2 - Condicionais.dll
+E:\Visual Studio\Projetos\Aula 2 - Condicionais\Aula 2 - Condicionais\obj\Debug\net7.0\refint\Aula 2 - Condicionais.dll
+E:\Visual Studio\Projetos\Aula 2 - Condicionais\Aula 2 - Condicionais\obj\Debug\net7.0\Aula 2 - Condicionais.pdb
+E:\Visual Studio\Projetos\Aula 2 - Condicionais\Aula 2 - Condicionais\obj\Debug\net7.0\Aula 2 - Condicionais.genruntimeconfig.cache
+E:\Visual Studio\Projetos\Aula 2 - Condicionais\Aula 2 - Condicionais\obj\Debug\net7.0\ref\Aula 2 - Condicionais.dll

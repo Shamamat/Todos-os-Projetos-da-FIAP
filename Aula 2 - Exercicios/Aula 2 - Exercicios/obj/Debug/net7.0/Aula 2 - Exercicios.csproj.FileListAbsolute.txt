@@ -1,0 +1,15 @@
+E:\Visual Studio\Projetos\Aula 2 - Exercicios\Aula 2 - Exercicios\bin\Debug\net7.0\Aula 2 - Exercicios.exe
+E:\Visual Studio\Projetos\Aula 2 - Exercicios\Aula 2 - Exercicios\bin\Debug\net7.0\Aula 2 - Exercicios.deps.json
+E:\Visual Studio\Projetos\Aula 2 - Exercicios\Aula 2 - Exercicios\bin\Debug\net7.0\Aula 2 - Exercicios.runtimeconfig.json
+E:\Visual Studio\Projetos\Aula 2 - Exercicios\Aula 2 - Exercicios\bin\Debug\net7.0\Aula 2 - Exercicios.dll
+E:\Visual Studio\Projetos\Aula 2 - Exercicios\Aula 2 - Exercicios\bin\Debug\net7.0\Aula 2 - Exercicios.pdb
+E:\Visual Studio\Projetos\Aula 2 - Exercicios\Aula 2 - Exercicios\obj\Debug\net7.0\Aula 2 - Exercicios.csproj.AssemblyReference.cache
+E:\Visual Studio\Projetos\Aula 2 - Exercicios\Aula 2 - Exercicios\obj\Debug\net7.0\Aula 2 - Exercicios.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio\Projetos\Aula 2 - Exercicios\Aula 2 - Exercicios\obj\Debug\net7.0\Aula 2 - Exercicios.AssemblyInfoInputs.cache
+E:\Visual Studio\Projetos\Aula 2 - Exercicios\Aula 2 - Exercicios\obj\Debug\net7.0\Aula 2 - Exercicios.AssemblyInfo.cs
+E:\Visual Studio\Projetos\Aula 2 - Exercicios\Aula 2 - Exercicios\obj\Debug\net7.0\Aula 2 - Exercicios.csproj.CoreCompileInputs.cache
+E:\Visual Studio\Projetos\Aula 2 - Exercicios\Aula 2 - Exercicios\obj\Debug\net7.0\Aula 2 - Exercicios.dll
+E:\Visual Studio\Projetos\Aula 2 - Exercicios\Aula 2 - Exercicios\obj\Debug\net7.0\refint\Aula 2 - Exercicios.dll
+E:\Visual Studio\Projetos\Aula 2 - Exercicios\Aula 2 - Exercicios\obj\Debug\net7.0\Aula 2 - Exercicios.pdb
+E:\Visual Studio\Projetos\Aula 2 - Exercicios\Aula 2 - Exercicios\obj\Debug\net7.0\Aula 2 - Exercicios.genruntimeconfig.cache
+E:\Visual Studio\Projetos\Aula 2 - Exercicios\Aula 2 - Exercicios\obj\Debug\net7.0\ref\Aula 2 - Exercicios.dll
