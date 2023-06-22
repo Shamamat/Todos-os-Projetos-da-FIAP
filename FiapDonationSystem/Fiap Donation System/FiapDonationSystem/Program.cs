@@ -37,17 +37,14 @@
                 Console.WriteLine("Digite sua senha: ");
                 string senhaLogin = Console.ReadLine();
 
-                if (emailLogin.Equals("admin@fiap.com.br"))
-                {
-                    if (senhaLogin.Equals("admin123"))
+                    if (senhaLogin.Equals("admin123") && senhaLogin.Equals("admin123"))
                     {
                         Console.WriteLine($"Bem-vindo ao sistema usuário de e-mail: {emailLogin}");
                     }
                     else
                     {
                         Console.WriteLine("Usuário e/ou senha inválidos!");
-                    }
-                }
+                    }              
                
             }
             else
