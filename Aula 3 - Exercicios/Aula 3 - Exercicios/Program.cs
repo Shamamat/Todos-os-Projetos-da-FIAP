@@ -6,6 +6,131 @@ namespace Aula_3___Exercicios
     {
         static void Main(string[] args)
         {
+            // Exercício 1 - extra do pdf:
+
+            Console.WriteLine("selecione a operação desejada");
+            Console.WriteLine("+---+----------------+");
+            Console.WriteLine("| 1 |     Depósito   |");
+            Console.WriteLine("| 2 |      Saque     |");
+            Console.WriteLine("| 3 |     Ver Saldo  |");
+            Console.WriteLine("| 4 |      Sair      |");
+            Console.WriteLine("+---+----------------+");
+            Console.Write("Insira sua opção: ");
+            int option = int.Parse(Console.ReadLine());
+
+            double saldo = 0;
+
+            while (option != 4)
+            {
+                switch (option)
+                {
+                    case 1:
+                        Console.WriteLine("Você escolheu depósito.");
+                        Console.Write("Quanto deseja depositar R$:");
+                        double valorDeposito = double.Parse(Console.ReadLine());
+                        saldo += valorDeposito;
+
+                        Console.WriteLine("Você depositou " + valorDeposito);
+                        Console.Write("Insira sua opção: ");
+                        option = int.Parse(Console.ReadLine());
+                        break;
+                    case 2:
+                        Console.WriteLine("Digite o valor do saque: R$");
+                        double valorSaque = double.Parse(Console.ReadLine());
+
+                        if (valorSaque <= saldo)
+                        {
+                            saldo -= valorSaque;
+                            Console.WriteLine("Você sacou " + valorSaque);
+                        }
+                        else
+                        {
+                            Console.WriteLine("Saldo insuficiente");
+                        }
+                        Console.Write("Insira sua opção: ");
+                        option = int.Parse(Console.ReadLine());
+                        break;
+
+                    case 3:
+                        Console.WriteLine("Saldo atual: R$" + saldo);
+
+                        Console.Write("Insira sua opção: ");
+                        option = int.Parse(Console.ReadLine());
+                        break;
+
+                    default:
+                        Console.WriteLine("Código inválido!");
+
+
+                        Console.Write("Insira sua opção: ");
+                        option = int.Parse(Console.ReadLine());
+                        break;
+                }
+            }
+
+            // Exercício 2 - extra do pdf:
+
+            int numeroMes;
+            Console.WriteLine("Digite um número de 1 a 12 para saber o mês escolhido!");
+            numeroMes = Convert.ToInt32(Console.ReadLine());
+
+            switch (numeroMes)
+            {
+                case 1:
+                    Console.WriteLine($"O número 1 é o mês de Janeiro!");
+                    break;
+
+                case 2:
+                    Console.WriteLine("O número 2 é o mês de Fevereiro!");
+                    break;
+
+                case 3:
+                    Console.WriteLine("O número 3 é o mês de Março!");
+                    break;
+
+                case 4:
+                    Console.WriteLine("O número 4 é o mês de Abril!");
+                    break;
+
+                case 5:
+                    Console.WriteLine("O número 5 é o mês de Maio!");
+                    break;
+
+                case 6:
+                    Console.WriteLine("O número 6 é o mês de Junho!");
+                    break;
+
+                case 7:
+                    Console.WriteLine("O número 7 é o mês de Julho!");
+                    break;
+
+                case 8:
+                    Console.WriteLine("O número 8 é o mês de Agosto!");
+                    break;
+
+                case 9:
+                    Console.WriteLine("O número 9 é o mês de Setembro!");
+                    break;
+
+                case 10:
+                    Console.WriteLine("O número 10 é o mês de Outubro!");
+                    break;
+
+                case 11:
+                    Console.WriteLine("O número 11 é o mês de Novembro!");
+                    break;
+
+                case 12:
+                    Console.WriteLine("O número 12 é o mês de Dezembro!");
+                    break;
+
+                default:
+                    Console.WriteLine("O número inserido é invalidadadasso, você é... bobo!");
+                    break;
+            }
+
+            // Exercício 1
+
             double compra, compraDesconto = 0;
             string cupom;
 
@@ -71,7 +196,7 @@ namespace Aula_3___Exercicios
             mediaFinal = nota1 + nota2 / 2;
 
 
-            if(mediaFinal >= 7 && frequencia > 75) //não terminei! (prof mt rápida, slc)
+            // if(mediaFinal >= 7 && frequencia > 75) //não terminei! (prof mt rápida, slc)
             {
                 Console.WriteLine("Parabéns, você foi aprovado!");
             }
@@ -108,6 +233,7 @@ namespace Aula_3___Exercicios
             {
                 Console.WriteLine("O triângulo não existe! Seu Burrão...");
             }
+            
         }
     }
 }

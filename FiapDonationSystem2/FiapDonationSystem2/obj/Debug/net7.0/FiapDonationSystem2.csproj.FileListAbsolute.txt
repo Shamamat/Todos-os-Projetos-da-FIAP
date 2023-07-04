@@ -1,0 +1,15 @@
+E:\Visual Studio\Projetos\FiapDonationSystem2\FiapDonationSystem2\bin\Debug\net7.0\FiapDonationSystem2.exe
+E:\Visual Studio\Projetos\FiapDonationSystem2\FiapDonationSystem2\bin\Debug\net7.0\FiapDonationSystem2.deps.json
+E:\Visual Studio\Projetos\FiapDonationSystem2\FiapDonationSystem2\bin\Debug\net7.0\FiapDonationSystem2.runtimeconfig.json
+E:\Visual Studio\Projetos\FiapDonationSystem2\FiapDonationSystem2\bin\Debug\net7.0\FiapDonationSystem2.dll
+E:\Visual Studio\Projetos\FiapDonationSystem2\FiapDonationSystem2\bin\Debug\net7.0\FiapDonationSystem2.pdb
+E:\Visual Studio\Projetos\FiapDonationSystem2\FiapDonationSystem2\obj\Debug\net7.0\FiapDonationSystem2.csproj.AssemblyReference.cache
+E:\Visual Studio\Projetos\FiapDonationSystem2\FiapDonationSystem2\obj\Debug\net7.0\FiapDonationSystem2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio\Projetos\FiapDonationSystem2\FiapDonationSystem2\obj\Debug\net7.0\FiapDonationSystem2.AssemblyInfoInputs.cache
+E:\Visual Studio\Projetos\FiapDonationSystem2\FiapDonationSystem2\obj\Debug\net7.0\FiapDonationSystem2.AssemblyInfo.cs
+E:\Visual Studio\Projetos\FiapDonationSystem2\FiapDonationSystem2\obj\Debug\net7.0\FiapDonationSystem2.csproj.CoreCompileInputs.cache
+E:\Visual Studio\Projetos\FiapDonationSystem2\FiapDonationSystem2\obj\Debug\net7.0\FiapDonationSystem2.dll
+E:\Visual Studio\Projetos\FiapDonationSystem2\FiapDonationSystem2\obj\Debug\net7.0\refint\FiapDonationSystem2.dll
+E:\Visual Studio\Projetos\FiapDonationSystem2\FiapDonationSystem2\obj\Debug\net7.0\FiapDonationSystem2.pdb
+E:\Visual Studio\Projetos\FiapDonationSystem2\FiapDonationSystem2\obj\Debug\net7.0\FiapDonationSystem2.genruntimeconfig.cache
+E:\Visual Studio\Projetos\FiapDonationSystem2\FiapDonationSystem2\obj\Debug\net7.0\ref\FiapDonationSystem2.dll

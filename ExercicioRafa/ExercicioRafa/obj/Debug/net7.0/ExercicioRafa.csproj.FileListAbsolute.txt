@@ -1,0 +1,15 @@
+E:\Visual Studio\Projetos\ExercicioRafa\ExercicioRafa\bin\Debug\net7.0\ExercicioRafa.exe
+E:\Visual Studio\Projetos\ExercicioRafa\ExercicioRafa\bin\Debug\net7.0\ExercicioRafa.deps.json
+E:\Visual Studio\Projetos\ExercicioRafa\ExercicioRafa\bin\Debug\net7.0\ExercicioRafa.runtimeconfig.json
+E:\Visual Studio\Projetos\ExercicioRafa\ExercicioRafa\bin\Debug\net7.0\ExercicioRafa.dll
+E:\Visual Studio\Projetos\ExercicioRafa\ExercicioRafa\bin\Debug\net7.0\ExercicioRafa.pdb
+E:\Visual Studio\Projetos\ExercicioRafa\ExercicioRafa\obj\Debug\net7.0\ExercicioRafa.csproj.AssemblyReference.cache
+E:\Visual Studio\Projetos\ExercicioRafa\ExercicioRafa\obj\Debug\net7.0\ExercicioRafa.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio\Projetos\ExercicioRafa\ExercicioRafa\obj\Debug\net7.0\ExercicioRafa.AssemblyInfoInputs.cache
+E:\Visual Studio\Projetos\ExercicioRafa\ExercicioRafa\obj\Debug\net7.0\ExercicioRafa.AssemblyInfo.cs
+E:\Visual Studio\Projetos\ExercicioRafa\ExercicioRafa\obj\Debug\net7.0\ExercicioRafa.csproj.CoreCompileInputs.cache
+E:\Visual Studio\Projetos\ExercicioRafa\ExercicioRafa\obj\Debug\net7.0\ExercicioRafa.dll
+E:\Visual Studio\Projetos\ExercicioRafa\ExercicioRafa\obj\Debug\net7.0\refint\ExercicioRafa.dll
+E:\Visual Studio\Projetos\ExercicioRafa\ExercicioRafa\obj\Debug\net7.0\ExercicioRafa.pdb
+E:\Visual Studio\Projetos\ExercicioRafa\ExercicioRafa\obj\Debug\net7.0\ExercicioRafa.genruntimeconfig.cache
+E:\Visual Studio\Projetos\ExercicioRafa\ExercicioRafa\obj\Debug\net7.0\ref\ExercicioRafa.dll
