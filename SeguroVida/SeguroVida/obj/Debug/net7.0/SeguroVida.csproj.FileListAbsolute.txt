@@ -1,0 +1,15 @@
+E:\Visual Studio\Projetos\SeguroVida\SeguroVida\bin\Debug\net7.0\SeguroVida.exe
+E:\Visual Studio\Projetos\SeguroVida\SeguroVida\bin\Debug\net7.0\SeguroVida.deps.json
+E:\Visual Studio\Projetos\SeguroVida\SeguroVida\bin\Debug\net7.0\SeguroVida.runtimeconfig.json
+E:\Visual Studio\Projetos\SeguroVida\SeguroVida\bin\Debug\net7.0\SeguroVida.dll
+E:\Visual Studio\Projetos\SeguroVida\SeguroVida\bin\Debug\net7.0\SeguroVida.pdb
+E:\Visual Studio\Projetos\SeguroVida\SeguroVida\obj\Debug\net7.0\SeguroVida.csproj.AssemblyReference.cache
+E:\Visual Studio\Projetos\SeguroVida\SeguroVida\obj\Debug\net7.0\SeguroVida.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio\Projetos\SeguroVida\SeguroVida\obj\Debug\net7.0\SeguroVida.AssemblyInfoInputs.cache
+E:\Visual Studio\Projetos\SeguroVida\SeguroVida\obj\Debug\net7.0\SeguroVida.AssemblyInfo.cs
+E:\Visual Studio\Projetos\SeguroVida\SeguroVida\obj\Debug\net7.0\SeguroVida.csproj.CoreCompileInputs.cache
+E:\Visual Studio\Projetos\SeguroVida\SeguroVida\obj\Debug\net7.0\SeguroVida.dll
+E:\Visual Studio\Projetos\SeguroVida\SeguroVida\obj\Debug\net7.0\refint\SeguroVida.dll
+E:\Visual Studio\Projetos\SeguroVida\SeguroVida\obj\Debug\net7.0\SeguroVida.pdb
+E:\Visual Studio\Projetos\SeguroVida\SeguroVida\obj\Debug\net7.0\SeguroVida.genruntimeconfig.cache
+E:\Visual Studio\Projetos\SeguroVida\SeguroVida\obj\Debug\net7.0\ref\SeguroVida.dll

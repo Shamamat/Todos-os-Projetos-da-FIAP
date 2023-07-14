@@ -11,13 +11,13 @@ namespace FiapDonationSystem2
         public string nome;
         public string telefone;
         public string email;
-        public string cadastro;
-        public string descricao;
+        public string senha;
+        public string apelido;
 
         public string ExibirDados()
         {
-            return "Dados do Usuário: \nNome: " + nome + "\nDescrição: "+ descricao + "\nE-mail: "
-                + email + "\nCadastro: " + cadastro + "\nDescrição: " + descricao;
+            return "Dados do Usuário: \nNome: " + nome + "\nTelefone: "+ telefone + "\nE-mail: "
+                + email + "\nSenha: " + senha + "\nApelido: " + apelido;
         }
     }
 }

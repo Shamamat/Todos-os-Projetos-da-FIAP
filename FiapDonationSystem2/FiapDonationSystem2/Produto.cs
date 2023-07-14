@@ -8,17 +8,16 @@ namespace FiapDonationSystem2
 {
     internal class Produto
     {
-        public string nome;
-        public string descricao;
-        public string genero;
-        public string foto;
-        public Boolean status;
-
+        public string Nome { get; set; }
+        public string Descricao;
+        public string Genero { get; set; }
+        public string Foto { get; set; }
+        public Boolean Status { get; set; }
 
         public string ExibirDados()
         {
-            return "\n- Os dados do produto são:  \nNome: " + nome + "\nDescrição: " + descricao + "\nGênero: " + genero 
-                + "\nFoto: " + foto + "\nStatus: " + status;
+            return "\n- Os dados do produto são:  \nNome: " + Nome + "\nDescrição: " + Descricao + "\nGênero: " + Genero 
+                + "\nFoto: " + Foto + "\nStatus: " + Status;
         }
     }
 }

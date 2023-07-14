@@ -1,0 +1,15 @@
+E:\Visual Studio\Projetos\ProjetoBanco\ProjetoBanco\obj\Debug\net7.0\ProjetoBanco.csproj.AssemblyReference.cache
+E:\Visual Studio\Projetos\ProjetoBanco\ProjetoBanco\obj\Debug\net7.0\ProjetoBanco.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio\Projetos\ProjetoBanco\ProjetoBanco\obj\Debug\net7.0\ProjetoBanco.AssemblyInfoInputs.cache
+E:\Visual Studio\Projetos\ProjetoBanco\ProjetoBanco\obj\Debug\net7.0\ProjetoBanco.AssemblyInfo.cs
+E:\Visual Studio\Projetos\ProjetoBanco\ProjetoBanco\obj\Debug\net7.0\ProjetoBanco.csproj.CoreCompileInputs.cache
+E:\Visual Studio\Projetos\ProjetoBanco\ProjetoBanco\bin\Debug\net7.0\ProjetoBanco.exe
+E:\Visual Studio\Projetos\ProjetoBanco\ProjetoBanco\bin\Debug\net7.0\ProjetoBanco.deps.json
+E:\Visual Studio\Projetos\ProjetoBanco\ProjetoBanco\bin\Debug\net7.0\ProjetoBanco.runtimeconfig.json
+E:\Visual Studio\Projetos\ProjetoBanco\ProjetoBanco\bin\Debug\net7.0\ProjetoBanco.dll
+E:\Visual Studio\Projetos\ProjetoBanco\ProjetoBanco\bin\Debug\net7.0\ProjetoBanco.pdb
+E:\Visual Studio\Projetos\ProjetoBanco\ProjetoBanco\obj\Debug\net7.0\ProjetoBanco.dll
+E:\Visual Studio\Projetos\ProjetoBanco\ProjetoBanco\obj\Debug\net7.0\refint\ProjetoBanco.dll
+E:\Visual Studio\Projetos\ProjetoBanco\ProjetoBanco\obj\Debug\net7.0\ProjetoBanco.pdb
+E:\Visual Studio\Projetos\ProjetoBanco\ProjetoBanco\obj\Debug\net7.0\ProjetoBanco.genruntimeconfig.cache
+E:\Visual Studio\Projetos\ProjetoBanco\ProjetoBanco\obj\Debug\net7.0\ref\ProjetoBanco.dll
