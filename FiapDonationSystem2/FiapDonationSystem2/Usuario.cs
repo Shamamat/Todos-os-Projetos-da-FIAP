@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace FiapDonationSystem2
 {
-    internal class Usuario
+    internal class Usuario : IAutenticavel
     {
         public string nome;
         public string telefone;
