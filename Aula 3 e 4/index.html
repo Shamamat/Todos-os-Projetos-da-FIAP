@@ -1,0 +1,264 @@
+<!doctype html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>E-Trocas</title>
+
+    <!-- chamada do ícone da aba do navegador -->
+    <link rel="shortcut icon" href="./images/comuns/rotate-solid.svg" type="image/x-icon">
+
+
+    <!-- Chamada do Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Catamaran:wght@300&display=swap" rel="stylesheet">
+
+
+    <!-- Chamada do Bootstrap Icons -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
+
+
+    <!-- Chamada do Bootstrap.css -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous">
+
+
+    <!-- Chamada da nossa CSS -->
+    <link rel="stylesheet" href="./css/styles.css">
+</head>
+
+<body>
+
+    <!-- menu principal -->
+    <nav class="navbar navbar-expand-lg my-4">
+        <div class="container">
+            <a class="navbar-brand logo" href="#"> <i class="bi bi-arrow-repeat"></i> E-Trocas</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+                aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <i class="bi bi-filter-right"></i>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" aria-current="page" href="#roupas">Roupas</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#brinquedos">Brinquedos</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#" data-bs-toggle="modal" data-bs-target="#loginModal">Login</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Contato</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <!-- fim menu -->
+
+    <!-- conteúdo principal da página -->
+    <main class="container my-4">
+
+        <!-- definindo a linha do grid - sem a class row, as classes responsivas não funcionam -->
+
+        <article class="row border-1 rounded-2 py-5 d-flex align-items-center">
+            <figure class="text-center col-md-6">
+                <img src="./images/comuns/app.svg" alt="Imagem do aplicativo E-Trocas">
+            </figure>
+
+            <section class="text-center my-4 col-md-6">
+                <h2 class="text-primary mb-3">Olá, nós somos o E-Trocas, a maior plataforma de trocas da Internet</h2>
+                <p class="mb-4 w-75 m-auto">Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente sequi dignissimos nobis!</p>
+                <a href="" class="btn btn-primary">Baixar nosso aplicativo
+                    <i class="bi bi-cloud-download ms-1"></i>
+                </a>
+            </section>
+        </article>
+        <!--Fim linha grid-->
+
+        <!-- Produtos que querem trocar -->
+
+        <h3 class="my-5 logo" id="roupas">Roupas</h3>
+
+        <!-- Criar uma linha do grid -->
+        <section class="row">
+
+            <!--1º Card-->
+            <div class="col-md-4 mb-3">
+            <div class="card">
+                <img src="./images/roupas/roupa1.jpg" class="card-img-top" alt="Macacão ABCD">
+                <div class="card-body">
+                    <h5 class="card-title text-primary">Macacão ABCD</h5>
+                    <div class="d-flex justify-content-between"> <!-- Aqui ele vai alinhar o conteúdo nos cantos -->
+                        <p>Tamanho: G</p>
+                        <p>Cor: Branca</p>
+                    </div>
+                    <h5 class="color-orange mb-3">Usuário: Telma Lins</h5>
+                    <div class="d-grid">
+                        <a href="#" class="btn btn-outline-primary">Quero Trocar</a>
+                    </div>
+                </div>
+            </div>
+            </div>
+
+            <!--2º Card-->
+            <div class="col-md-4 mb-3">
+            <div class="card">
+                <img src="./images/roupas/roupa2.jpg" class="card-img-top" alt="Conjunto XYZA">
+                <div class="card-body">
+                    <h5 class="card-title text-primary">Conjunto XYZA</h5>
+                    <div class="d-flex justify-content-between">
+                        <!-- Aqui ele vai alinhar o conteúdo nos cantos -->
+                        <p>Tamanho: M</p>
+                        <p>Cor: Branco/Azul</p>
+                    </div>
+                    <h5 class="color-orange mb-3">Usuário: Tânia Tilha</h5>
+                    <div class="d-grid">
+                        <a href="#" class="btn btn-outline-primary">Quero Trocar</a>
+                    </div>
+                </div>
+            </div>
+            </div>
+
+            <!--3º Card-->
+            <div class="col-md-4 mb-3">
+            <div class="card">
+                <img src="./images/roupas/roupa3.jpg" class="card-img-top" alt="Conjunto QWER">
+                <div class="card-body">
+                    <h5 class="card-title text-primary">Conjunto QWER</h5>
+                    <div class="d-flex justify-content-between">
+                        <!-- Aqui ele vai alinhar o conteúdo nos cantos -->
+                        <p>Tamanho: G</p>
+                        <p>Cor: Branca/Laranja</p>
+                    </div>
+                    <h5 class="color-orange mb-3">Usuário: Wilma Dias</h5>
+                    <div class="d-grid">
+                        <a href="#" class="btn btn-outline-primary">Quero Trocar</a>
+                    </div>
+                </div>
+            </div>
+            </div>
+
+        </section>
+
+        <h3 class="my-5 logo" id="brinquedos">Brinquedos</h3>
+
+        <section class="row">
+
+            <!--1º Card-->
+            <div class="col-md-6 col-lg-3 mb-5 logo">
+                <div class="card">
+                    <img src="./images/brinquedos/brinquedo1.jpg" class="card-img-top" alt="Snoopy - Blocos">
+                    <div class="card-body">
+                        <h5 class="card-title text-primary">Snoopy - Blocos</h5>
+                        <h5 class="color-orange mb-3">Usuário: Roberta Souza</h5>
+                        <div class="d-grid">
+                            <a href="#" class="btn btn-outline-primary">Quero Trocar</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!--2º Card-->
+            <div class="col-md-6 col-lg-3 mb-3">
+                <div class="card">
+                    <img src="./images/brinquedos/brinquedo2.jpg" class="card-img-top" alt="Caminhão Betoneira">
+                    <div class="card-body">
+                        <h5 class="card-title text-primary">Caminhão Betoneira</h5>
+                        <h5 class="color-orange mb-3">Usuário: Jorge Souza</h5>
+                        <div class="d-grid">
+                            <a href="#" class="btn btn-outline-primary">Quero Trocar</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!--3º Card-->
+            <div class="col-md-6 col-lg-3 mb-3">
+                <div class="card">
+                    <img src="./images/brinquedos/brinquedo3.jpg" class="card-img-top" alt="Leão de Pelúcia">
+                    <div class="card-body">
+                        <h5 class="card-title text-primary">Leão de Pelúcia</h5>
+                        <h5 class="color-orange mb-3">Usuário: Jorge Souza</h5>
+                        <div class="d-grid">
+                            <a href="#" class="btn btn-outline-primary">Quero Trocar</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!--4º Card-->
+            <div class="col-md-6 col-lg-3 mb-3">
+                <div class="card">
+                    <img src="./images/brinquedos/brinquedo4.jpg" class="card-img-top" alt="Galinha Pintadinha">
+                    <div class="card-body">
+                        <h5 class="card-title text-primary">Galinha Pintadinha</h5>
+                        <h5 class="color-orange mb-3">Usuário: Carla Flores</h5>
+                        <div class="d-grid">
+                            <a href="#" class="btn btn-outline-primary">Quero Trocar</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </section>
+
+
+        <!-- Modal -->
+        <div class="modal fade" id="loginModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h1 class="modal-title fs-5" id="exampleModalLabel">E-Trocas - Área de Login</h1>
+                        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                    </div>
+                    <div class="modal-body">
+
+                        <figure class="text-center">
+                            <img src="./images/comuns/login.png" alt="Imagem do login" class="img-login">
+                        </figure>
+
+                        <!-- Formulário-->
+
+                        <form id="dados" name="dados" method="post" action="./admin.html">
+
+                            <div class="my-3">
+                                <label for="user" class="form-label">Usuário</label>
+                                <input type="text" id="user" name="user" class="form-control" placeholder="Ex: user123456" 
+                                minlength="10" maxlength="30" required>
+                            </div>
+
+                            <div class="my-3">
+                                <label for="senha">Senha</label>
+                                <input type="password" id="senha" name="senha" class="form-control" placeholder="Ex: !@#senha"
+                                minlength="4" maxlength="20" required>
+                            </div>
+
+                            <div class="my-3 d-flex justify-content-end">
+                                <input type="submit" value="Fazer Login" class="btn btn-primary">
+                            </div>
+
+                        </form> 
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </main>
+
+
+
+
+
+
+
+    <!-- Chamada do Javascript do Bootstrap -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-HwwvtgBNo3bZJJLYd8oVXjrBZt8cqVSpeBNS5n7C8IVInixGAoxmnlMuBnhbgrkm" crossorigin="anonymous">
+    </script>
+</body>
+
+</html>

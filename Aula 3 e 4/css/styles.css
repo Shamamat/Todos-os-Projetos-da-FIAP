@@ -20,3 +20,11 @@ body {
 .my-color {
     color: #dc143c;
 }
+
+.color-orange {
+    color: #ff6600;
+}
+
+.img-login{
+    width: 250px;
+}
