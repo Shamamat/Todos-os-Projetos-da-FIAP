@@ -28,3 +28,12 @@ body {
 .img-login{
     width: 250px;
 }
+
+.foto img{
+    width: 50px;
+}
+
+textarea {
+    resize: none;
+    height: 150px;
+}
