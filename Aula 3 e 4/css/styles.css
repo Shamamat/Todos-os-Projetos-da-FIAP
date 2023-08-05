@@ -1,4 +1,3 @@
-
 body {
     font-family: 'Catamaran', sans-serif;
 }
@@ -29,6 +28,10 @@ body {
     width: 250px;
 }
 
+.img-login2{
+    width: 200px;
+}
+
 .foto img{
     width: 50px;
 }
@@ -36,4 +39,8 @@ body {
 textarea {
     resize: none;
     height: 150px;
+}
+
+.redes-sociais {
+    text-align: center;
 }
